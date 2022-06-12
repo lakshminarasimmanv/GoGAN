@@ -2,6 +2,8 @@
 
 This is a GAN written in Go. It is a very simple GAN that only has two input neurons, two hidden neurons, and one output neuron. The training data is generated randomly.
 
+This code creates a neural network and trains it using a dataset of inputs and targets. The neural network is then tested on a new input to see if it can accurately predict the output.
+
 The GAN is trained for 10000 iterations. The learning rate is set to 0.1.
 
 ## Usage
